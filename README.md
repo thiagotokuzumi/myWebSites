@@ -1,4 +1,4 @@
-# WebSites
+# myWebSites
 Simple page with my actually active websites
 
 How to:
